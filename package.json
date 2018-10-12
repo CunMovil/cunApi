@@ -1,0 +1,18 @@
+{
+  "name": "cunmovilapi",
+  "version": "1.0.0",
+  "description": "Esta es la API para obtener los datos que alimentan la app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cun serve"
+  },
+  "author": "Sergio Velandia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4"
+  }
+}
